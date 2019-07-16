@@ -42,6 +42,9 @@
     <keyboard-shortcut first-keystroke="shift f6" />
     <keyboard-shortcut first-keystroke="f14" />
   </action>
+  <action id="TsLintFileFixAction">
+    <keyboard-shortcut first-keystroke="f16" />
+  </action>
   <action id="Vcs.ReformatCommitMessage">
     <keyboard-shortcut first-keystroke="meta alt l" />
   </action>
