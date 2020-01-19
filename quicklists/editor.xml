@@ -1,10 +1,9 @@
 <list display="editor" description="editor actions">
+  <action id="SelectIn" />
   <action id="QuickList.$Separator$" />
-  <action id="osmedile.intellij.stringmanip.WordsAndCamelToConstantStyleCaseAction" />
-  <action id="StringManipulation.ToSnakeCaseOrCamelCase" />
   <action id="StringManipulation.ToHyphenCaseAction" />
   <action id="StringManipulation.ToHyphenCaseOrCamelCase" />
-  <action id="StringManipulation.ToDotStyleAction" />
+  <action id="StringManipulation.ToSnakeCaseOrCamelCase" />
   <action id="StringManipulation.ToPascalCaseOrCamelCase" />
   <action id="osmedile.intellij.stringmanip.styles.ToCamelCaseOrToWordLowercaseAction" />
   <action id="StringManipulation.ToSentenceCaseOrCamelCase" />
@@ -12,6 +11,8 @@
   <action id="osmedile.intellij.stringmanip.WordsCapitalizeAction" />
   <action id="osmedile.intellij.stringmanip.ToLowerCaseAction" />
   <action id="osmedile.intellij.stringmanip.ToUpperCaseAction" />
+  <action id="StringManipulation.ToDotStyleAction" />
   <action id="osmedile.intellij.stringmanip.SwapCaseAction" />
+  <action id="osmedile.intellij.stringmanip.WordsAndCamelToConstantStyleCaseAction" />
   <action id="QuickList.$Separator$" />
 </list>
