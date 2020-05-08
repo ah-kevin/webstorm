@@ -27,6 +27,9 @@
   <action id="NewTypeScriptFile">
     <keyboard-shortcut first-keystroke="meta t" />
   </action>
+  <action id="ParameterInfo">
+    <keyboard-shortcut first-keystroke="ctrl p" />
+  </action>
   <action id="QuickChangeScheme" />
   <action id="QuickJavaDoc">
     <keyboard-shortcut first-keystroke="f1" />
