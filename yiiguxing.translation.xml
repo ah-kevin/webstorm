@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="negate the value if this segment is behind the plane z=0segIndex" />
+      <item value="segIndex" />
       <item value="Do you want to manually choose a Storybook project type to install?" />
     </histories>
     <option name="languageScores">
