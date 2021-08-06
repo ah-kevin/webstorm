@@ -7,8 +7,12 @@
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="http://gitee.com" />
+          <option name="url" value="http://github.com" />
           <option name="userName" value="ah-kevin" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://192.168.76.61:8888" />
+          <option name="userName" value="bjke" />
         </UrlAndUserName>
         <UrlAndUserName>
           <option name="url" value="http://git.iflytek.com" />
@@ -23,6 +27,8 @@
     <option name="cloneParentDir" value="$USER_HOME$/workspace/github" />
   </component>
   <component name="Vcs.Log.App.Settings">
+    <option name="SHOW_TAG_NAMES" value="true" />
+    <option name="LABELS_LEFT_ALIGNED" value="true" />
     <option name="COLUMN_ID_ORDER">
       <list>
         <option value="Default.Root" />
@@ -31,5 +37,8 @@
         <option value="Default.Date" />
       </list>
     </option>
+  </component>
+  <component name="VcsApplicationSettings">
+    <option name="COMMIT_FROM_LOCAL_CHANGES" value="true" />
   </component>
 </application>

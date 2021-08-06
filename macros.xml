@@ -1,0 +1,8 @@
+<application>
+  <component name="ActionMacroManager">
+    <macro name="navigate current file">
+      <action id="SelectIn" />
+      <typing text-keycode="49:0">1</typing>
+    </macro>
+  </component>
+</application>
