@@ -6,6 +6,7 @@
     <keyboard-shortcut first-keystroke="meta divide" />
     <keyboard-shortcut first-keystroke="ctrl slash" />
   </action>
+  <action id="CopyElement" />
   <action id="EditorSelectWord">
     <keyboard-shortcut first-keystroke="alt up" />
     <keyboard-shortcut first-keystroke="ctrl w" />
@@ -14,6 +15,11 @@
     <keyboard-shortcut first-keystroke="meta f12" />
     <keyboard-shortcut first-keystroke="meta p" />
   </action>
+  <action id="GotoNextError">
+    <keyboard-shortcut first-keystroke="f2" />
+    <keyboard-shortcut first-keystroke="f5" />
+  </action>
+  <action id="Graph.RouteEdges" />
   <action id="Macro.navigate current file">
     <keyboard-shortcut first-keystroke="f14" />
   </action>
