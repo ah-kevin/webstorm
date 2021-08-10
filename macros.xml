@@ -4,5 +4,9 @@
       <action id="SelectIn" />
       <typing text-keycode="49:0">1</typing>
     </macro>
+    <macro name="fix eslint+save">
+      <action id="Javascript.Linters.EsLint.Fix" />
+      <action id="SaveAll" />
+    </macro>
   </component>
 </application>
