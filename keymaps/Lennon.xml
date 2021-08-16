@@ -20,6 +20,9 @@
     <keyboard-shortcut first-keystroke="f5" />
   </action>
   <action id="Graph.RouteEdges" />
+  <action id="Javascript.Linters.EsLint.Fix">
+    <keyboard-shortcut first-keystroke="meta quote" />
+  </action>
   <action id="Macro.navigate current file">
     <keyboard-shortcut first-keystroke="f14" />
   </action>
