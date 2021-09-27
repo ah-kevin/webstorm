@@ -28,7 +28,7 @@
       <option name="fileExtension" value="styl" />
       <option name="immediateSync" value="true" />
       <option name="name" value="Stylus" />
-      <option name="output" value="$FileNameWithoutExtension$.css" />
+      <option name="output" value="$FileNameWithoutExtension$.scss" />
       <option name="outputFilters">
         <array />
       </option>
