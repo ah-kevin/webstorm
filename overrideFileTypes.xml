@@ -1,0 +1,6 @@
+<application>
+  <component name="OverrideFileTypeManager">
+    <file url="file://$USER_HOME$/Lennon/blog/themes/whale/assets/scss/main.scss" value="SCSS" />
+    <file url="file://$USER_HOME$/Lennon/blog/themes/whale/layouts/partials/head.html" value="Go Template" />
+  </component>
+</application>
