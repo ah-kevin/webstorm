@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="文件 '…/src/containers/login/index.tsx'" />
-    <option name="defaultScopeName" value="文件 '…/src/containers/login/index.tsx'" />
+    <option name="customScope" value="文件 '…/src/containers/project-list/index.tsx'" />
+    <option name="defaultScopeName" value="文件 '…/src/containers/project-list/index.tsx'" />
     <option name="localWholeWordsOnly" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
-    <option name="SEARCH_SCOPE" value="文件 '…/src/containers/login/index.tsx'" />
+    <option name="SEARCH_SCOPE" value="文件 '…/src/containers/project-list/index.tsx'" />
     <mask>*.xml</mask>
     <mask>*.css</mask>
     <mask>*.ng</mask>
