@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Object.assign() is not available in IE11. And the babel compiled output for object spread syntax checks a bunch of Symbol stuff and is almost a kb. So this function is the smaller replacement." />
       <item value="negate the value if this segment is behind the plane z=0segIndex" />
       <item value="segIndex" />
       <item value="Do you want to manually choose a Storybook project type to install?" />
@@ -8,6 +9,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
+        <entry key="ENGLISH" value="1" />
       </map>
     </option>
   </component>
