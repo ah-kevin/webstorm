@@ -2,6 +2,8 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="01-表格基本语法。html" type="AUTO_DETECTED" />
+      <mapping ext="json" type="JSON5" />
+      <removed_mapping ext="json" approved="true" type="JSON" />
     </extensionMap>
   </component>
 </application>
