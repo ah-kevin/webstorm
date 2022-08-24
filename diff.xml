@@ -22,14 +22,7 @@
       </entry>
     </option>
   </component>
-  <component name="TextDiffSettings">
-    <option name="PLACES_MAP">
-      <entry key="VcsFileHistoryView">
-        <PlaceSettings>
-          <option name="ENABLE_SYNC_SCROLL" value="false" />
-          <option name="EXPAND_BY_DEFAULT" value="false" />
-        </PlaceSettings>
-      </entry>
-    </option>
+  <component name="ExternalDiffSettings">
+    <option name="MIGRATE_OLD_SETTINGS" value="true" />
   </component>
 </application>
